@@ -6,7 +6,7 @@ public class Aplicacio {
     static Aplicacio app = new Aplicacio(); // Crear objecte.
     // Inicialització de les variables.
     String txt_triar, txt_jugar, txt_idioma, txt_instruccions, txt_sortir, txt_jugador, txt_empat, txt_guanyar,
-            txt_perdre, txt_guanyarfinal, txt_perdrefinal, txt_ronda, txt_resultat, txt_tornarajugar, txt_tornarmenu,
+            txt_perdreta, txt_guanyarfinal, txt_perdrefinal, txt_ronda, txt_resultat, txt_tornarajugar, txt_tornarmenu,
             txt_continuar, txt_haselegit, txt_haelegit, txt_instrucciolinea1, txt_instrucciolinea2,
             txt_instrucciolinea3, txt_instrucciolinea4, txt_rondesjugades, resultat, txt_resultatfinal;
     String[] idiomes = { null, "CATALA", "ESPA\u00d1OL", "ENGLISH" }; // Crea un array pels texts d'idiomes.
